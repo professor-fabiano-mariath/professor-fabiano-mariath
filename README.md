@@ -20,7 +20,7 @@ Here are some ideas to get you started:
      - Arquitetura de Sistemas Distribuídos
      - Projeto Integrador IV
      - Engenharia de Software
-     - Testes e Qualiade de Sistemas
+     - Testes e Qualidade de Sistemas
   - Membro do Núcleo Docente Estruturante
   - Coordenador da Cátedra de Projetos de TI   
 - 🌱 Doutorando em Ciência da Informação na UnB
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
     - Plataformas Digitais
     - Agricultura Familiar 
     - Comportamento Informacional 
-- 🌱 Teste
+
 
