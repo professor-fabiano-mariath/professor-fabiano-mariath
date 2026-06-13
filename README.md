@@ -1,11 +1,11 @@
-## Hi there 👋
+## Sobre Prof. Fabiano Mariath 👋
 
 <!--
 **professor-fabiano-mariath/professor-fabiano-mariath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- :man_teacher: Professor da FATECS CEUB
+  -  Disciplinas: 
+     - Arquitetura de Sistemas Distribuídos
+     - Projeto Integrador IV
+     - 
+- 🌱 Doutorando em Ciência da Informação pelo PGCINF UnB 
+- 👯 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
