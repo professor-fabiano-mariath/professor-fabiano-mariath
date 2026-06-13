@@ -30,8 +30,5 @@ Here are some ideas to get you started:
     - Plataformas Digitais
     - Agricultura Familiar 
     - Comportamento Informacional 
-
-- 👯 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 Teste
 
