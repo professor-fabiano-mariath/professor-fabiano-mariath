@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- :man_teacher: Professor da FATECS CEUB
+- 👨‍🏫 Professor da FATECS CEUB
   -  Disciplinas: 
      - Arquitetura de Sistemas Distribuídos
      - Projeto Integrador IV
